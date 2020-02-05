@@ -1,0 +1,8 @@
+
+Profit/Losses Analysis
+----------------------------
+Total Months:86
+Total Revenue:38382578
+Average  Change:7803.476744186047
+Greatest Increase in Profits:Feb-121170593
+Greatest Decrease in Profits:Sep-13-1196225
